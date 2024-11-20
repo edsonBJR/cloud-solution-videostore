@@ -1,4 +1,4 @@
-# cloud-solution-videostore
+# Cloud Solution Video Store
 Arquitetura para um sistema em nuvem para a locadora e vídeos
 
 Precisamos propor uma arquitetura para um sistema em nuvem para a locadora e vídeos descrita abaixo. Uma pequena locadora de vídeos possui aproximadamente 2000 fitas de vídeo e mais de 10000 DVD’s além de 5000 CDS de artistas musicais variados, cujo empréstimo deve ser controlado.
